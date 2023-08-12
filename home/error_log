@@ -1,0 +1,12 @@
+[21-Mar-2023 17:33:35 UTC] PHP Notice:  Undefined variable: web in /home/rizwanst/numpang.rizwanstore.my.id/home/index.php on line 4
+[21-Mar-2023 17:33:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rizwanst/numpang.rizwanstore.my.id/home/index.php on line 4
+[21-Mar-2023 17:33:40 UTC] PHP Notice:  Undefined variable: web in /home/rizwanst/numpang.rizwanstore.my.id/home/index.php on line 4
+[21-Mar-2023 17:33:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rizwanst/numpang.rizwanstore.my.id/home/index.php on line 4
+[21-Mar-2023 17:33:51 UTC] PHP Notice:  Undefined variable: web in /home/rizwanst/numpang.rizwanstore.my.id/home/index.php on line 4
+[21-Mar-2023 17:33:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rizwanst/numpang.rizwanstore.my.id/home/index.php on line 4
+[17-May-2023 21:54:42 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 2
+[17-May-2023 21:54:42 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 14
+[17-May-2023 21:54:42 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 15
+[17-May-2023 21:54:42 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 18
+[17-May-2023 21:54:42 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 19
+[17-May-2023 21:54:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/isfsosme/public_html/autocron/custom/date_at.php on line 4

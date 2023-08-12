@@ -1,0 +1,1 @@
+<?php defined("BASEPATH") or exit("NGAPAIN TONG ?"); ?>

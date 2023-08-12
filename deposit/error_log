@@ -1,0 +1,12 @@
+[08-Apr-2023 12:00:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wuzzpedi/public_html/deposit/new.php on line 110
+[08-Apr-2023 12:05:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wuzzpedi/public_html/deposit/new.php on line 110
+[08-Apr-2023 13:49:55 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wuzzpedi/public_html/deposit/new.php on line 111
+[13-Apr-2023 12:03:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/wuzzpedi/public_html/deposit/new.php on line 118
+[13-Apr-2023 12:27:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wuzzpedi/public_html/deposit/new.php on line 109
+[13-Apr-2023 20:45:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/wuzzpedi/public_html/deposit/new.php on line 109
+[13-Apr-2023 20:59:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/wuzzpedi/public_html/deposit/new.php on line 109
+[19-May-2023 09:25:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/isfsosme/public_html/system/database.php on line 4
+[19-May-2023 09:25:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/isfsosme/public_html/system/database.php on line 4
+[19-May-2023 09:25:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/isfsosme/public_html/system/database.php on line 4
+[19-May-2023 09:25:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/isfsosme/public_html/system/database.php on line 4
+[19-May-2023 09:25:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/isfsosme/public_html/system/database.php on line 4

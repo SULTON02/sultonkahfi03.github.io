@@ -1,0 +1,43 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background: #333;
+}
+.loader{
+    border: 4px solid #07da4d;
+    width: 68px;
+    height: 68px;
+    margin: 50px auto 0;
+    position: relative;
+    animation: animate 2.6s linear infinite;
+}
+.loader:before,
+.loader:after{
+    content: '';
+    width: 50px;
+    height: 50px;
+    border: 4px solid #be65e2;
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    animation: animate_1 1.3s linear infinite;
+    animation-direction: reverse;
+}
+.loader:after{
+    width: 96px;
+    height: 96px;
+    top: -15px;
+    left: -15px;
+    border:4px solid orange;
+}
+@keyframes animate{
+    0%{ transform: rotate(0deg); }
+    100%{ transform: rotate(360deg); }
+}
+@keyframes animate_1{
+    0%{ transform: rotate(0deg); }
+    100%{ transform: rotate(360deg); }
+}
+License Terms

@@ -1,0 +1,43 @@
+[17-Apr-2023 04:55:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wuzzpedi_adminwuzz'@'localhost' (using password: YES) in /home/rajapane/public_html/system/database.php on line 4
+[17-Apr-2023 04:55:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wuzzpedi_adminwuzz'@'localhost' (using password: YES) in /home/rajapane/public_html/system/database.php on line 4
+[17-Apr-2023 04:55:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wuzzpedi_adminwuzz'@'localhost' (using password: YES) in /home/rajapane/public_html/system/database.php on line 4
+[17-Apr-2023 04:56:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'wuzzpedi_adminwuzz'@'localhost' (using password: YES) in /home/rajapane/public_html/system/database.php on line 4
+[17-May-2023 21:49:20 Asia/Jakarta] PHP Warning:  Undefined variable $session in /home/isfsosme/public_html/system/helpers/db.php on line 2
+[17-May-2023 21:49:20 Asia/Jakarta] PHP Warning:  Undefined variable $session in /home/isfsosme/public_html/system/helpers/db.php on line 14
+[17-May-2023 21:49:20 Asia/Jakarta] PHP Warning:  Undefined variable $session in /home/isfsosme/public_html/system/helpers/db.php on line 15
+[17-May-2023 21:49:20 Asia/Jakarta] PHP Warning:  Undefined variable $session in /home/isfsosme/public_html/system/helpers/db.php on line 18
+[17-May-2023 21:49:20 Asia/Jakarta] PHP Warning:  Undefined variable $session in /home/isfsosme/public_html/system/helpers/db.php on line 19
+[17-May-2023 21:49:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'isfsosme_tes.pembelian_pulsa' doesn't exist in /home/isfsosme/public_html/autocron/custom/date_at.php:3
+Stack trace:
+#0 /home/isfsosme/public_html/autocron/custom/date_at.php(3): mysqli->query()
+#1 /home/isfsosme/public_html/mainconfig.php(39): require_once('/home/isfsosme/...')
+#2 /home/isfsosme/public_html/index.php(4): require_once('/home/isfsosme/...')
+#3 {main}
+  thrown in /home/isfsosme/public_html/autocron/custom/date_at.php on line 3
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 2
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 14
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 15
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 18
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Undefined variable: session in /home/isfsosme/public_html/system/helpers/db.php on line 19
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/isfsosme/public_html/autocron/custom/date_at.php on line 4
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/isfsosme/public_html/layouts/header.php on line 11
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/isfsosme/public_html/layouts/header.php on line 11
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/isfsosme/public_html/index.php on line 88
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/isfsosme/public_html/index.php on line 91
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/isfsosme/public_html/index.php on line 94
+[17-May-2023 21:54:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function berita() in /home/isfsosme/public_html/index.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/isfsosme/public_html/index.php on line 134
+[27-Jun-2023 16:27:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'isfsosme_tes'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 16:59:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'isfsosme_tes'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:07:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'isfsosme_tes'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:09:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'isfsosme_tes'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:13:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sultonka_sulton03'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:13:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sultonka_sulton03'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:13:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sultonka_sulton03'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:14:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sultonka_sulton03'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:14:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sultonka_sulton03'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:14:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sultonka_sulton03'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:15:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sultonka_siti'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4
+[27-Jun-2023 17:15:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sultonka_siti'@'localhost' (using password: YES) in /home/sultonka/public_html/system/database.php on line 4

@@ -1,0 +1,15 @@
+# START MultiPHP Version
+<FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
+    SetHandler application/x-httpd-alt-php73___lsphp
+</FilesMatch>
+# END MultiPHP Version
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteCond %{REQUEST_FILENAME} !-d
+ RewriteCond %{REQUEST_FILENAME}.php -f
+ RewriteRule ^(.*)$ $1.php
+ </IfModule>
+
+
+
+

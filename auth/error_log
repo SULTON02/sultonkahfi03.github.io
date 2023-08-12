@@ -1,0 +1,7 @@
+[14-Jan-2023 10:38:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/asepahmy/public_html/auth/login.php on line 9
+[14-Jan-2023 10:38:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/asepahmy/public_html/auth/login.php on line 9
+[23-Apr-2023 01:23:55 UTC] PHP Notice:  Undefined variable: db in /home/rajapane/public_html/auth/data_ex.php on line 3
+[23-Apr-2023 01:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rajapane/public_html/auth/data_ex.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rajapane/public_html/auth/data_ex.php on line 3

@@ -1,0 +1,9 @@
+https://wuzzpedia.com/home/
+https://wuzzpedia.com/halaman/price_list
+https://wuzzpedia.com/halaman/kontak-kami
+https://wuzzpedia.com/halaman/ketentuan_layanan
+https://wuzzpedia.com/auth/register
+https://wuzzpedia.com/auth/login
+https://wuzzpedia.com/dashboard/
+https://wuzzpedia.com/halaman/download_app
+https://wuzzpedia.com/auth/reset

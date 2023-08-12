@@ -1,0 +1,54 @@
+[25-Sep-2022 16:07:08 Asia/Jakarta] PHP Warning:  require_once(../mainconfig.php): failed to open stream: No such file or directory in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[25-Sep-2022 16:07:08 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../mainconfig.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[25-Sep-2022 16:07:10 Asia/Jakarta] PHP Warning:  require_once(../mainconfig.php): failed to open stream: No such file or directory in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[25-Sep-2022 16:07:10 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../mainconfig.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[25-Sep-2022 16:07:11 Asia/Jakarta] PHP Warning:  require_once(../mainconfig.php): failed to open stream: No such file or directory in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[25-Sep-2022 16:07:11 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../mainconfig.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[25-Sep-2022 16:08:16 Asia/Jakarta] PHP Warning:  require_once(../mainconfig.php): failed to open stream: No such file or directory in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[25-Sep-2022 16:08:16 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../mainconfig.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[25-Sep-2022 16:08:22 Asia/Jakarta] PHP Warning:  require_once(../mainconfig.php): failed to open stream: No such file or directory in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[25-Sep-2022 16:08:22 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../mainconfig.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rakyatpa/rakyatpanel.com/autocron/LannApp/get-sosmed.php on line 2
+[01-Oct-2022 19:41:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[01-Oct-2022 19:48:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[01-Oct-2022 19:57:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[01-Oct-2022 20:01:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[02-Oct-2022 06:40:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[02-Oct-2022 06:48:10 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[02-Oct-2022 06:56:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[02-Oct-2022 07:00:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[02-Oct-2022 07:08:28 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[04-Oct-2022 03:56:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[06-Oct-2022 04:41:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'grogu.id.domainesia.com' is not allowed to connect to this MariaDB server in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[06-Oct-2022 05:08:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[06-Oct-2022 05:16:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[06-Oct-2022 05:24:15 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[08-Oct-2022 03:16:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[09-Oct-2022 03:00:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[09-Oct-2022 03:08:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[09-Oct-2022 03:16:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[09-Oct-2022 03:24:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[09-Oct-2022 03:32:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[09-Oct-2022 03:40:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[11-Oct-2022 04:08:28 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[11-Oct-2022 04:16:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[11-Oct-2022 04:24:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[13-Oct-2022 04:08:28 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[13-Oct-2022 04:16:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[13-Oct-2022 04:24:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[13-Oct-2022 04:32:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[13-Oct-2022 04:40:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[15-Oct-2022 04:08:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[15-Oct-2022 04:16:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[15-Oct-2022 04:24:15 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[16-Oct-2022 03:48:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[16-Oct-2022 03:56:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[16-Oct-2022 04:00:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[22-Oct-2022 04:16:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[22-Oct-2022 04:24:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[22-Oct-2022 04:32:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[22-Oct-2022 04:40:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[26-Oct-2022 10:00:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No route to host in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[29-Oct-2022 23:40:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[30-Oct-2022 13:32:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'grogu.id.domainesia.com' is not allowed to connect to this MariaDB server in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[07-Nov-2022 23:56:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'grogu.id.domainesia.com' is not allowed to connect to this MariaDB server in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4
+[08-Nov-2022 09:08:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'grogu.id.domainesia.com' is not allowed to connect to this MariaDB server in /home/rakyatpa/rakyatpanel.com/system/database.php on line 4

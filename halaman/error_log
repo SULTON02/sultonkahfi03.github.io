@@ -1,0 +1,18 @@
+[04-Jan-2023 15:25:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/asepahmy/public_html/system/database.php on line 4
+[04-Jan-2023 15:25:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/asepahmy/public_html/system/database.php on line 4
+[04-Jan-2023 15:25:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/asepahmy/public_html/system/database.php on line 4
+[11-Apr-2023 04:24:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/wuzzpedi/public_html/halaman/monitoring.php on line 60
+[11-Apr-2023 04:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/wuzzpedi/public_html/halaman/monitoring.php on line 74
+[11-Apr-2023 04:36:38 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/wuzzpedi/public_html/halaman/monitoring.php on line 74
+[11-Apr-2023 04:36:40 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/wuzzpedi/public_html/halaman/monitoring.php on line 74
+[11-Apr-2023 04:36:50 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/wuzzpedi/public_html/halaman/monitoring.php on line 74
+[11-Apr-2023 04:43:21 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/wuzzpedi/public_html/halaman/monitoring.php on line 61
+[11-Apr-2023 05:25:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wuzzpedi/public_html/halaman/monitoring.php on line 61
+[11-Apr-2023 05:36:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wuzzpedi/public_html/halaman/monitoring.php on line 61
+[11-Apr-2023 05:37:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wuzzpedi/public_html/halaman/monitoring.php on line 61
+[11-Apr-2023 05:39:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wuzzpedi/public_html/halaman/monitoring.php on line 61
+[11-Apr-2023 06:37:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wuzzpedi/public_html/halaman/monitoring.php on line 64
+[11-Apr-2023 06:38:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wuzzpedi/public_html/halaman/monitoring.php on line 64
+[11-Apr-2023 07:19:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wuzzpedi/public_html/halaman/monitoring.php on line 21
+[11-Apr-2023 08:23:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/wuzzpedi/public_html/halaman/monitoring.php on line 11
+[11-Apr-2023 08:23:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/wuzzpedi/public_html/halaman/monitoring.php on line 11
